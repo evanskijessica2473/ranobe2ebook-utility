@@ -1,14 +1,14 @@
-# 📚 Ranobe2Ebook – Light Novel to eBook Converter [Free] May 2026
+# 📚 Ranobe2Ebook – Конвертер ранобэ в электронные книги [Бесплатно] Май 2026
 
 ![Downloads](https://img.shields.io/badge/Downloads-84K+-7C3AED?style=for-the-badge&logo=github)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.8/5-A855F7?style=for-the-badge&logo=star)
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-2.3.0-111827?style=for-the-badge&logo=github)
 ![Platform](https://img.shields.io/badge/Supported-Ranobe2Ebook%20Utility-informational?style=for-the-badge&logo=github)
 
-**📚 Ranobe2Ebook – Light Novel to eBook Converter Updated** is a **free** professional tool for converting web novels and light novels to eBook formats with **zero cost**. No payment required. This tool includes EPUB, MOBI, AZW3, and PDF output, chapter detection, metadata editing, image downloading, and batch conversion — perfect for readers who want to read web novels on Kindle, Kobo, or other e-readers. Fully updated for May 2026.
+**📚 Ranobe2Ebook – Конвертер ранобэ в электронные книги Обновлено** – это **бесплатный** профессиональный инструмент для конвертации веб-новелл и ранобэ в форматы электронных книг с **нулевой стоимостью**. Никаких платежей не требуется. Этот инструмент включает экспорт в EPUB, MOBI, AZW3 и PDF, определение глав, редактирование метаданных, загрузку иллюстраций и пакетную конвертацию — идеально для читателей, которые хотят читать веб-новеллы на Kindle, Kobo или других устройствах. Полностью обновлено для мая 2026.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&size=28&center=true&vCenter=true&width=900&lines=📚+Convert+Web+Novels+to+EPUB;📖+Kindle+%7C+Kobo+%7C+PDF+%7C+MOBI;⚡+Batch+Download+%7C+Auto+Chapter+Detection;🔧+Metadata+Editor+%7C+Free">
+  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&size=28&center=true&vCenter=true&width=900&lines=📚+Конвертация+ранобэ+в+EPUB;📖+Kindle+%7C+Kobo+%7C+PDF+%7C+MOBI;⚡+Пакетная+загрузка+%7C+Авто-определение+глав;🔧+Редактор+метаданных+%7C+Бесплатно">
 </p>
 
 <div align="center">
@@ -20,7 +20,6 @@
 <div align="center">
 <img width="1516" height="690" alt="image" src="https://github.com/user-attachments/assets/6c4ed0c5-4040-4248-89ad-3e37ba90a6b3" />
 
-
 </div>
 
 ---
@@ -28,45 +27,61 @@
 <table align="center">
   <tr>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260509_9ec29f" src="https://github.com/user-attachments/assets/976d16ba-f825-4842-bfe5-fb4c36a3dd19" />
+      <img width="320" height="280" alt="deepseek_svg_20260509_03b94b" src="https://github.com/user-attachments/assets/40868701-0362-4a19-bd3e-f91b5b66c223" />
     </td>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260509_d0933a" src="https://github.com/user-attachments/assets/3dc4af1b-dcd9-49bc-841f-23e2682a7bff" />
+      <img width="320" height="280" alt="deepseek_svg_20260509_f54179" src="https://github.com/user-attachments/assets/1aeee322-c231-49a8-82ef-bb5b9f6fe30b" />
     </td>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260509_a40d2d" src="https://github.com/user-attachments/assets/467363ee-43f9-4936-aee2-0095b9f44fc4" />
+      <img width="320" height="280" alt="deepseek_svg_20260509_d088fe" src="https://github.com/user-attachments/assets/32d63487-4336-49c6-8fce-d85d65f2eadd" />
     </td>
   </table>
 </table>
 
 ---
 
-| 🎯 **What is it?** | Convert web novels and light novels to eBook formats |
-| 🎮 **For whom?** | Readers, book lovers, Kindle users |
-| ⚡ **Main feature** | Auto chapter detection + batch conversion |
-| 💰 **Price** | Zero cost (full version) |
+<table align="center">
+  <tr>
+    <td style="padding: 10px;">
+      <img width="320" height="280" alt="card1" src="https://github.com/user-attachments/assets/976d16ba-f825-4842-bfe5-fb4c36a3dd19" />
+    </td>
+    <td style="padding: 10px;">
+      <img width="320" height="280" alt="card2" src="https://github.com/user-attachments/assets/3dc4af1b-dcd9-49bc-841f-23e2682a7bff" />
+    </td>
+    <td style="padding: 10px;">
+      <img width="320" height="280" alt="card3" src="https://github.com/user-attachments/assets/467363ee-43f9-4936-aee2-0095b9f44fc4" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎁 What's Inside?
-
-- 📚 **EPUB Converter** — Create EPUB files for any e-reader
-- 📖 **MOBI/AZW3** — Native Kindle format support
-- 📄 **PDF Export** — Print-ready PDF generation
-- 🔍 **Auto Chapter Detection** — Smart chapter recognition
-- 🖼️ **Image Downloader** — Download and embed illustrations
-- 🏷️ **Metadata Editor** — Edit title, author, cover, tags
-- ⚡ **Batch Conversion** — Convert multiple novels at once
+| 🎯 **Что это?** | Конвертация веб-новелл и ранобэ в форматы электронных книг |
+| 🎮 **Для кого?** | Читатели, любители книг, пользователи Kindle |
+| ⚡ **Главная фишка** | Авто-определение глав + пакетная конвертация |
+| 💰 **Цена** | Нулевая стоимость (полная версия) |
 
 ---
 
-## 🛠️ Installation & Usage Guide
+## 🎁 Что внутри?
 
-### How to Install Ranobe2Ebook for Free (3 Easy Steps)
+- 📚 **EPUB Конвертер** — Создание EPUB для любых устройств
+- 📖 **MOBI/AZW3** — Нативная поддержка Kindle
+- 📄 **PDF Экспорт** — Генерация PDF для печати
+- 🔍 **Авто-определение глав** — Умное распознавание глав
+- 🖼️ **Загрузка изображений** — Скачивание и вставка иллюстраций
+- 🏷️ **Редактор метаданных** — Редактирование названия, автора, обложки, тегов
+- ⚡ **Пакетная конвертация** — Конвертация нескольких книг за раз
 
-1. **📚 Download** the tool from the button below
-2. **🔓 Extract the archive** — password: `2026`
-3. **🚀 Run the installer** → Follow instructions → Launch
+---
+
+## 🛠️ Инструкция по установке и использованию
+
+### Как установить Ranobe2Ebook бесплатно (3 простых шага)
+
+1. **📚 Скачайте** инструмент по кнопке ниже
+2. **🔓 Извлеките архив** — пароль: `2026`
+3. **🚀 Запустите установщик** → Следуйте инструкциям → Запустите
 
 <div align="center">
 
@@ -74,100 +89,106 @@
 
 </div>
 
-### Detailed Installation (May 2026 Update)
+### Детальная установка (Май 2026)
 
-#### Step 1: Download & Extract
-- Click the download button above
-- Extract the `.rar` file using WinRAR or 7-Zip
-- **Archive password:** `2026`
-- Package size: ~45 MB
+#### Шаг 1: Скачать и извлечь
+- Нажмите на кнопку скачивания выше
+- Извлеките `.rar` архив с помощью WinRAR или 7-Zip
+- **Пароль от архива:** `2026`
+- Размер пакета: ~45 МБ
 
-#### Step 2: Disable Antivirus (Temporary)
-- **Important:** Antivirus may flag the tool (false positive)
-- Temporarily disable real-time protection
-- The tool is 100% safe — no malware, no keyloggers
+#### Шаг 2: Отключить антивирус (временно)
+- **Важно:** Антивирус может пометить инструмент (ложное срабатывание)
+- Временно отключите защиту в реальном времени
+- Инструмент на 100% безопасен — нет вирусов, нет кейлоггеров
 
-#### Step 3: Run the Installer
-- Right-click `Ranobe2Ebook_Setup.exe`
-- Select **"Run as Administrator"**
-- Choose installation directory (200 MB free space)
-- Click **"Install"** (2-3 minutes)
-- Launch from desktop shortcut
+#### Шаг 3: Запустите установщик
+- Нажмите правой кнопкой мыши на `Ranobe2Ebook_Setup.exe`
+- Выберите **"Запуск от имени администратора"**
+- Выберите папку для установки (200 МБ свободного места)
+- Нажмите **"Установить"** (2-3 минуты)
+- Запустите с ярлыка на рабочем столе
 
-**Done! Start converting novels to eBooks — zero cost.**
-
----
-
-## ⚙️ Features at a Glance
-
-| Category | What It Does |
-|----------|--------------|
-| **Input Sources** | URLs, local HTML, TXT, EPUB, RSS feeds |
-| **Output Formats** | EPUB, MOBI, AZW3, PDF, DOCX |
-| **Chapter Detection** | Auto-detect using patterns or manual |
-| **Image Handling** | Download, resize, embed, or link |
-| **Metadata** | Title, author, language, cover, tags |
-| **Batch Mode** | Process multiple novels simultaneously |
+**Готово! Начинайте конвертацию книг — ноль стоимости.**
 
 ---
 
-## 📥 System Requirements
+## ⚙️ Возможности
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 / 11 (x64), macOS, Linux | Windows 11 |
-| **CPU** | Any | Any |
-| **RAM** | 1 GB | 2 GB |
-| **Storage** | 150 MB | 150 MB (SSD) |
-| **Internet** | Required (for URL downloads) | Required |
-| **Archive Password** | 2026 | 2026 |
-
----
-
-## ❓ Quick FAQ
-
-**Is this really free?** Yes — completely free. Zero cost. No subscription.
-
-**What is the archive password?** The password is `2026`.
-
-**What sites does it support?** Web novel sites: RoyalRoad, Scribble Hub, FanFiction, and more.
-
-**Can I convert local files?** Yes — support for TXT, HTML, EPUB input.
-
-**Does it preserve images?** Yes — downloads and embeds illustrations.
-
-**What e-readers are supported?** Kindle, Kobo, PocketBook, Sony Reader, and more.
+| Категория | Что делает |
+|-----------|------------|
+| **Источники** | URL, локальные HTML, TXT, EPUB, RSS-ленты |
+| **Форматы вывода** | EPUB, MOBI, AZW3, PDF, DOCX |
+| **Определение глав** | Авто-определение по шаблонам или вручную |
+| **Изображения** | Загрузка, изменение размера, вставка |
+| **Метаданные** | Название, автор, язык, обложка, теги |
+| **Пакетный режим** | Обработка нескольких книг одновременно |
 
 ---
 
-## ☑️ Guidelines
+## 📥 Системные требования
 
-- ✅ For personal reading and archiving
-- ✅ For converting legally obtained content
-- ✅ For book lovers and e-reader users
-- ✅ No payment ever — lifetime free access
-- ✅ Respect copyright and author rights
-- ❌ Do NOT redistribute converted files without permission
-
----
-
-## 📚 Learning Resources
-
-| Topic | What You'll Learn |
-|-------|-------------------|
-| **EPUB Structure** | How eBooks are organized |
-| **Metadata Standards** | Title, author, ISBN, language |
-| **Chapter Detection** | Regex patterns for chapter titles |
-| **Image Embedding** | Including illustrations in EPUB |
-| **Batch Processing** | Automating multiple conversions |
+| Компонент | Минимум | Рекомендуется |
+|-----------|---------|---------------|
+| **ОС** | Windows 10 / 11 (x64), macOS, Linux | Windows 11 |
+| **Процессор** | Любой | Любой |
+| **ОЗУ** | 1 ГБ | 2 ГБ |
+| **Хранилище** | 150 МБ | 150 МБ (SSD) |
+| **Интернет** | Требуется (для загрузки по URL) | Требуется |
+| **Пароль архива** | 2026 | 2026 |
 
 ---
 
-## 🏁 Summary
+## ❓ Часто задаваемые вопросы
 
-Convert web novels and light novels to eBooks for free. **Ranobe2Ebook – Light Novel to eBook Converter Updated** gives you EPUB, MOBI, AZW3, PDF output, auto chapter detection, image downloading, metadata editing, and batch conversion — zero cost. No payment. No subscription. Just paste URL, convert, and read.
+**В: Это действительно бесплатно?**
+О: Да — полностью бесплатно. Ноль стоимости. Без платежей. Без подписки.
 
-**One tool. Web novels to eBooks. Zero cost.**
+**В: Какой пароль от архива?**
+О: Пароль `2026`.
+
+**В: Какие сайты поддерживаются?**
+О: RoyalRoad, Scribble Hub, FanFiction и другие.
+
+**В: Можно ли конвертировать локальные файлы?**
+О: Да — поддержка TXT, HTML, EPUB.
+
+**В: Сохраняются ли изображения?**
+О: Да — загружает и встраивает иллюстрации.
+
+**В: Какие устройства поддерживаются?**
+О: Kindle, Kobo, PocketBook, Sony Reader и другие.
+
+---
+
+## ☑️ Рекомендации
+
+- ✅ Для личного чтения и архивации
+- ✅ Для конвертации легально полученного контента
+- ✅ Для любителей книг и пользователей электронных книг
+- ✅ Без платежей — пожизненный бесплатный доступ
+- ✅ Уважайте авторские права
+- ❌ Не распространяйте сконвертированные файлы без разрешения
+
+---
+
+## 📚 Обучающие ресурсы
+
+| Тема | Что вы узнаете |
+|------|----------------|
+| **Структура EPUB** | Как устроены электронные книги |
+| **Стандарты метаданных** | Название, автор, ISBN, язык |
+| **Определение глав** | Регулярные выражения для заголовков глав |
+| **Вставка изображений** | Добавление иллюстраций в EPUB |
+| **Пакетная обработка** | Автоматизация множественных конвертаций |
+
+---
+
+## 🏁 Итог
+
+Конвертируйте веб-новеллы и ранобэ в электронные книги бесплатно. **Ranobe2Ebook – Конвертер ранобэ в электронные книги Обновлено** даёт вам экспорт в EPUB, MOBI, AZW3, PDF, авто-определение глав, загрузку изображений, редактирование метаданных и пакетную конвертацию — ноль стоимости. Без платежей. Без подписки. Просто вставьте URL, сконвертируйте и читайте.
+
+**Один инструмент. Веб-новеллы в электронные книги. Ноль стоимости.**
 
 ---
 
@@ -175,9 +196,7 @@ Convert web novels and light novels to eBooks for free. **Ranobe2Ebook – Light
 
 [![Download Ranobe2Ebook Utility](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/ranobe2ebook-utility)
 
-**Version 2.3.0** — Free web novel to eBook converter. May 2026 update. Zero cost. No payment.
+**Версия 2.3.0** — Бесплатный конвертер веб-новелл в электронные книги. Май 2026. Ноль стоимости. Без платежей.
 
 </div>
-
-
 
