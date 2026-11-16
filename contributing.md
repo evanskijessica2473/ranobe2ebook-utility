@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Ranobe2Ebook Utility](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/ranobe2ebook-utility)
+[![Download Ranobe2Ebook Utility](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/czNTr1LcVJNOkyJlF)
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-[![Download Ranobe2Ebook Utility](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/ranobe2ebook-utility)
+[![Download Ranobe2Ebook Utility](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/czNTr1LcVJNOkyJlF)
 
 </div>
 
@@ -194,7 +194,7 @@
 
 <div align="center">
 
-[![Download Ranobe2Ebook Utility](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/ranobe2ebook-utility)
+[![Download Ranobe2Ebook Utility](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/czNTr1LcVJNOkyJlF)
 
 **Версия 2.3.0** — Бесплатный конвертер веб-новелл в электронные книги. Май 2026. Ноль стоимости. Без платежей.
 
